@@ -1,4 +1,6 @@
-name: Junit
+
+name : Junit
+
 on :
    push:
     branches: [ main ]
